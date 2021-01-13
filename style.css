@@ -1,0 +1,10 @@
+
+#buttons {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.parent {
+    display:flex;
+    flex-direction: row;
+}
